@@ -1,0 +1,15 @@
+{
+  "name": "7c33c3294869b7f901b34af482346ec6d63253a322a22068992af0a5c80b2e6e",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
